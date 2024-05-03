@@ -10,7 +10,7 @@ Hola 👋🏻 Soy Lucas 🔥<br>todo lo que encontrarás será en bsse a diversi
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Jackhokage&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katashifukushima&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katashifukushima&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackhokage&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
