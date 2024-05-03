@@ -9,7 +9,7 @@ Hola 👋🏻 Soy Lucas 🔥<br>todo lo que encontrarás será en bsse a diversi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Jackhokage&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=katashifukushima&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jackhokage&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackhokage&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
