@@ -12,11 +12,6 @@ Hola 👋🏻 Soy Lucas 🥷<br>todo lo que encontrarás será en bsse a diversi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katashifukushima&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katashifukushima&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Cita para desarrolladores
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top contribución a repositorios
-![](https://github-contributor-stats.vercel.app/api?username=katashifukushima&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
   ## 💰 Puedes ayudarme donando
